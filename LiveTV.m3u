@@ -1,0 +1,216 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://www.open-epg.com/files/indonesia.xml.gz" billed-msg="LiveTV" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+
+
+##########################LiveTV##########################
+
+#EXTINF:-1 tvg-id="SCTV.id" ch-number="23" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h0217/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="Indosiar.id" ch-number="24" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h0235/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="mOji.id" ch-number="35" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="MentariTV.id" ch-number="36" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MENTARI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
+
+#EXTINF:-1 tvg-id="KompasTV.id" ch-number="11" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",KOMPASTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="AjwaTV.id" ch-number="260" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",REPUBLIKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://nextgenz.my.id/event/pidio/play.m3u8?id=7464&type=hls
+
+#EXTINF:-1 tvg-id="SinpoTV.id" ch-number="14" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SIN PO tv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://nextgenz.my.id/event/pidio/play.m3u8?id=19046&type=hls
+
+#EXTINF:-1 tvg-id="RTV.id" ch-number="25" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RTV HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="RTV.id" ch-number="41" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RTV HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" ch-number="12" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="33" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://joycelineplay850.github.io/hls/playlist.m3u8
+
+#EXTINF:-1 ch-number="126" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",KTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://joycelineplay850.github.io/hls/playlist.m3u8
+
+#EXTINF:-1 ch-number="250" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",LOKA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCdvOUH8lTbv0D2Sf7fwCWiQ
+
+#EXTINF:-1 tvg-id="RCTI.id" ch-number="28" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RCTI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+
+
+#EXTINF:-1 tvg-id="MNCTV.id" ch-number="29" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MNCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+
+
+#EXTINF:-1 tvg-id="GTV.id" ch-number="30" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+
+
+#EXTINF:-1 tvg-id="iNews.id" ch-number="31" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",iNews HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+
+
+#EXTINF:-1 tvg-id="MetroTV.id" ch-number="22" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",METRO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="38" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MAGNA CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1388617247_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" ch-number="39" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h108/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="JawaPosTV.id" ch-number="45" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Jawapos TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/chunklist_w872216397.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" ch-number="17" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GARUDA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://hgmtv.com:2020/hls/garudatvlivestreaming/1080p.m3u8
+
+#EXTINF:-1 ch-number="44" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SMILE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+http://36.93.73.155:1919/hls/live.m3u8
+
+#EXTINF:-1 ch-number="259" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",UGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_mid.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id" ch-number="285" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",JAK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/S2/mnf.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="tvOne.id" ch-number="27" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="ANTV.id" ch-number="26" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
+
+#EXTINF:-1 tvg-id="VTV.id" ch-number="37" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",VTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="77" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",JAGANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="MDTV.id" ch-number="16" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h06/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="291" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BERITA NASIONAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCwyXeakpsmiK-xPaqfWB4TQ
+
+#EXTINF:-1 ch-number="800" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",EWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" ch-number="20" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Trans TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/chunklist_w1719145671_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" ch-number="21" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Trans 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/chunklist_w910377343_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" ch-number="19" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CNN INDONESIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2019171821_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" ch-number="18" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CNBC INDONESIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://live.cnnindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w67920301_b384000_sleng.m3u8
+
+#EXTINF:-1 ch-number="801" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" ch-number="32" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="TVRI.id" ch-number="1" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10002-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" ch-number="2" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI DKI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 ch-number="3" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 ch-number="4" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10006-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" ch-number="6" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI Jawa Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_2500000=10008-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" ch-number="9" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI BANTEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" ch-number="258" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",DAAI tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 ch-number="255" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",tvMu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 ch-number="88" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Stara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://jakarta.staratv.id/hls/3/stream.m3u8?cachebust=5ed709
+
+#EXTINF:-1 ch-number="252" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",ELSHINTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S2/mnf.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="802" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w426303764.m3u8
+
+#EXTINF:-1 ch-number="551" tvg-logo="https://www.iconsdb.com/icons/preview/white/radio-3-xxl.png",Radio TVRI 1 (Test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1 ch-number="552" tvg-logo="https://www.iconsdb.com/icons/preview/white/radio-3-xxl.png",Radio TVRI 2 (Test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+
+#EXTINF:-1 ch-number="554" tvg-logo="https://www.iconsdb.com/icons/preview/white/radio-3-xxl.png",RRI Radio Pro 2 (Test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
